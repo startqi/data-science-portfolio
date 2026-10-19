@@ -1,7 +1,7 @@
-# Liu Jiayi — Data Science Portfolio
+# LJY — Data Science Portfolio
 
 ## About Me
-Hello! I am Liu Jiayi (Student ID: mc643984), a student in CISC7204.
+Hello! I am LJY, a student in UM CISC7204.
 I am interested in data analysis, visualization, and turning raw data into
 clear, reproducible insights.
 
