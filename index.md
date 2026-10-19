@@ -18,7 +18,7 @@ clear, reproducible insights.
 **Research question:** How do body measurements differ across the three penguin
 species (Adelie, Chinstrap, Gentoo), and can these features distinguish species?
 
-![Body mass by species](images/fig1_boxplot.png)
+![Body mass by species](fig1_boxplot.png)
 
 **Finding:** Gentoo penguins have clearly larger body mass than Adelie and
 Chinstrap, and bill length vs bill depth separates the three species into
